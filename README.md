@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning Distributed System Architecture
-- 👯 I’m looking to collaborate on LMS Open source Projects
+- 👯 I’m looking to collaborate on Software dev Projects
 - 💬 Ask me about anything, Always happy to help
 - 📫 How to reach me: davisg827.dgn@gmail.com
 - ⚡ Fun fact: Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live
 
   <a title="LinkedIn" href="https://www.linkedin.com/in/ngwiri-gitau/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="25" height="25" />
+    <img src="[https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png](https://www.iconfinder.com/icons/294671/linkedin_icon)" width="25" height="25" />
   </a>
 
 
