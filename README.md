@@ -15,7 +15,7 @@
 - ⚡ Fun fact: Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live
 
   <a title="LinkedIn" href="https://www.linkedin.com/in/ngwiri-gitau/">
-    <img src="[https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png](https://www.iconfinder.com/icons/294671/linkedin_icon)" width="25" height="25" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="25" height="25" />
   </a>
 
 
